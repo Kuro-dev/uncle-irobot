@@ -1,7 +1,0 @@
-2022-03-18 15:59:26 INFO  Admins:38 - Creating new admins.json
-2022-03-18 15:59:26 INFO  Main:50 - null-no version found
-2022-03-18 15:59:26 INFO  Main:51 - usage: just append them in the end
-All Application arguments:
-  -tw,--toggleWebserver     enable the webserver on port 8080
-
-2022-03-18 15:59:26 INFO  Main:76 - ---------CREATING NEW DEFAULT SETTINGS---------
